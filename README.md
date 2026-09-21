@@ -1,1 +1,0 @@
-# AD-hostname-earcher-Legacy
